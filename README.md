@@ -8,3 +8,6 @@ LIST OF MATERIALS :
 3 - Resistor (100 Ohm in my case)
 4 - IRF840 MOSFET N-CHANNEL
 5 - Stripped Copper Wires(for the touch part)
+![image1](https://github.com/Razvan-Nicholas/Electronics-Mosfet-Touch-Switch-On-Off/assets/129912215/7f89ec72-e4df-4008-887c-181cfe5bd005)
+
+![image2](https://github.com/Razvan-Nicholas/Electronics-Mosfet-Touch-Switch-On-Off/assets/129912215/db215769-df55-4152-baea-97d1b77054fd)
